@@ -83,4 +83,4 @@ jobs:
           # Параметр push: true указывает, что образ нужно не только собрать,
           # но и отправить на Docker Hub
           push: true
-          tags: mrclive74062/taski_backend:latest
+          tags: mrclive7406/taski_backend:latest
